@@ -1,7 +1,0 @@
-Hola, mi nombre es Daniel velasquez
-
-Tengo 29 años y soy de Colombia
-
-y esta es mi historia de vida.
-
-estoy estudiando git en platzi.
